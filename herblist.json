@@ -1,20 +1,24 @@
 [
   {
-    "Name": "Mint",
+    "Name": "Mięta",
     "Location": "Africa & Asia",
-    "Details": "Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae.",
+    "Standing": "Roślina światłolubna, ale poradzi sobie też w półcieniu. Nie lubi bardzo ostrego słońca.",
+    "Zastosowanie:" "",
+    "Details": "Mięta to bylina o zielonych, aromatycznych liściach, wytwarzająca kłącze. Kwiaty drobne, białe, liliowe lub różowe. W uprawie mamy kilkadziesiąt odmian mięty różniących się wyglądem i aromatem. Wśród tych wielu gatunków najpopularniejsza jest mięta pieprzowa o orzeźwiającycm zapachu i lekko piekącym smaku.",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
     "Population": 10000,
     "Latitude": -8.783195,
     "Longitude": 34.508523
   },
   {
-    "Name": "Rosemary",
-    "Location": "Central & South America",
-    "Details": "The capuchin monkeys are New World monkeys of the subfamily Cebinae. Prior to 2011, the subfamily contained only a single genus, Cebus.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
-    "Population": 23000,
-    "Latitude": 12.769013,
-    "Longitude": -85.602364
+    "Name": "Bazylia",
+    "Location": "Africa & Asia",
+    "Standing": "Roślina światłolubna, ale poradzi sobie też w półcieniu. Nie lubi bardzo ostrego słońca.",
+    "Zastosowanie:" "",
+    "Details": "Mięta to bylina o zielonych, aromatycznych liściach, wytwarzająca kłącze. Kwiaty drobne, białe, liliowe lub różowe. W uprawie mamy kilkadziesiąt odmian mięty różniących się wyglądem i aromatem. Wśród tych wielu gatunków najpopularniejsza jest mięta pieprzowa o orzeźwiającycm zapachu i lekko piekącym smaku.",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Population": 10000,
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
   }
 ]
