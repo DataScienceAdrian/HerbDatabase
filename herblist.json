@@ -1,24 +1,18 @@
 [
   {
     "Name": "Mięta",
-    "Location": "Africa & Asia",
+    "Location": "Miętę można z powodzeniem uprawiać w doniczce, na balkonie czy tarasie.",
     "Standing": "Roślina światłolubna, ale poradzi sobie też w półcieniu. Nie lubi bardzo ostrego słońca.",
-    "Zastosowanie:" "",
+    "Flowering": "czerwiec - lipiec",
     "Details": "Mięta to bylina o zielonych, aromatycznych liściach, wytwarzająca kłącze. Kwiaty drobne, białe, liliowe lub różowe. W uprawie mamy kilkadziesiąt odmian mięty różniących się wyglądem i aromatem. Wśród tych wielu gatunków najpopularniejsza jest mięta pieprzowa o orzeźwiającycm zapachu i lekko piekącym smaku.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
-    "Population": 10000,
-    "Latitude": -8.783195,
-    "Longitude": 34.508523
+    "Image": "https://user-images.githubusercontent.com/34422638/199486003-ed7ee2f2-745c-4f89-98c9-014ce7413081.jpg",
   },
   {
     "Name": "Bazylia",
-    "Location": "Africa & Asia",
-    "Standing": "Roślina światłolubna, ale poradzi sobie też w półcieniu. Nie lubi bardzo ostrego słońca.",
-    "Zastosowanie:" "",
-    "Details": "Mięta to bylina o zielonych, aromatycznych liściach, wytwarzająca kłącze. Kwiaty drobne, białe, liliowe lub różowe. W uprawie mamy kilkadziesiąt odmian mięty różniących się wyglądem i aromatem. Wśród tych wielu gatunków najpopularniejsza jest mięta pieprzowa o orzeźwiającycm zapachu i lekko piekącym smaku.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
-    "Population": 10000,
-    "Latitude": -8.783195,
-    "Longitude": 34.508523
+    "Location": "Bazylię można z powodzeniem uprawiać w doniczce, na domowym parapecie lub na balkonie czy tarasie.",
+    "Standing": "Jasne, słoneczne, osłonięte od wiatru.",
+    "Flowering": "lipiec - sierpień",
+    "Details": "Jako roślina użytkowa i lecznicza. Surowcem przyprawowym jest ziele bazylii,używane w stanie świeżym lub suszonym. Liście bazylii dodaje sie do sałatek, sosów, twarogu, zapiekanek, zup (szczególnie pomidorowej), potraw miesnych i ryb. Uwaga: aby nie stracić walorów smakowych i zapachowych bazylii, najlepiej jest rwać jej liście niż kroić je nożem. Jako roślina lecznicza poprawia trawienie, zapobiega wzdęciom, pobudza wydzielanie soków trawiennych, działa przeciwbakteryjnie i przeciwzapalnie. Napar z bazylii łagodzi kaszel.",
+    "Image": "https://user-images.githubusercontent.com/34422638/199485889-b3993888-6b53-471a-9e7f-d93f13a3fa9c.jpg",
   }
 ]
